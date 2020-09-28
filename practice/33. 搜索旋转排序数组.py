@@ -49,3 +49,4 @@ class Solution(object):
 if __name__ == '__main__':
     solution = Solution()
     index = solution.search([4, 5, 6, 7, 0, 1, 2], 0)
+    print(index)
